@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "name": "Aarya",
+    "username": "Bret",
+    "email": "Arya@april.biz"
+  },
+  {
+    "id": 2,
+    "name": "Sanvi",
+    "username": "Antonette",
+    "email": "Sanvi@melissa.tv"
+   
+  },
+  {
+    "id": 3,
+    "name": "Prachi",
+    "username": "Samantha",
+    "email": "Prachi@yesenia.net"
+ 
+  },
+  {
+    "id": 4,
+    "name": "Ayushi",
+    "username": "Karianne",
+    "email": "Ayushi.OConner@kory.org"
+  
+  },
+  {
+    "id": 5,
+    "name": "Aastha",
+    "username": "Kamren",
+    "email": "Aastha@annie.ca"
+  
+  },
+  {
+    "id": 6,
+    "name": "Vibhanjali",
+    "username": "Leopoldo_Corkery",
+    "email": "Vibhanjali_Dach@jasper.info"
+  
+  },
+  {
+    "id": 7,
+    "name": "Anamika",
+    "username": "Elwyn.Skiles",
+    "email": "Anamika.Hoeger@billy.biz"
+ 
+  },
+  {
+    "id": 8,
+    "name": "Saumya",
+    "username": "Maxime_Nienow",
+    "email": "Saumya@rosamond.me"
+   
+  },
+  {
+    "id": 9,
+    "name": "Ansh",
+    "username": "Delphine",
+    "email": "Ansh_McDermott@dana.io"
+   
+  },
+  {
+    "id": 10,
+    "name": "Janvi",
+    "username": "Moriah.Stanton",
+    "email": "Janvi.Padberg@karina.biz"
+  
+  }
+]
