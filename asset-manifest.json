@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cats-Meow/static/css/main.befe4fdb.css",
+    "main.js": "/Cats-Meow/static/js/main.03a37952.js",
+    "static/js/787.38da7721.chunk.js": "/Cats-Meow/static/js/787.38da7721.chunk.js",
+    "index.html": "/Cats-Meow/index.html",
+    "main.befe4fdb.css.map": "/Cats-Meow/static/css/main.befe4fdb.css.map",
+    "main.03a37952.js.map": "/Cats-Meow/static/js/main.03a37952.js.map",
+    "787.38da7721.chunk.js.map": "/Cats-Meow/static/js/787.38da7721.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.befe4fdb.css",
+    "static/js/main.03a37952.js"
+  ]
+}
