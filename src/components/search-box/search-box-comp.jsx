@@ -1,5 +1,4 @@
 import React from 'react';
-import './search-box.style.css';
 
 export default function SearchBox(props) {
   return (

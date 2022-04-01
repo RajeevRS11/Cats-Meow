@@ -3,69 +3,78 @@
     "id": 1,
     "name": "Aarya",
     "username": "Bret",
-    "email": "Arya@april.biz"
+    "email": "Arya@april.biz",
+    "imgUrl": "https://robohash.org/1?set=set4&size=180x180"
   },
   {
     "id": 2,
     "name": "Sanvi",
     "username": "Antonette",
-    "email": "Sanvi@melissa.tv"
+    "email": "Sanvi@melissa.tv",
+    "imgUrl": "https://robohash.org/2?set=set4&size=180x180"
    
   },
   {
     "id": 3,
     "name": "Prachi",
     "username": "Samantha",
-    "email": "Prachi@yesenia.net"
+    "email": "Prachi@yesenia.net",
+    "imgUrl": "https://robohash.org/3?set=set4&size=180x180"
  
   },
   {
     "id": 4,
     "name": "Ayushi",
     "username": "Karianne",
-    "email": "Ayushi.OConner@kory.org"
+    "email": "Ayushi.OC@kory.org",
+    "imgUrl": "https://robohash.org/4?set=set4&size=180x180"
   
   },
   {
     "id": 5,
     "name": "Aastha",
     "username": "Kamren",
-    "email": "Aastha@annie.ca"
+    "email": "Aastha@annie.ca",
+    "imgUrl": "https://robohash.org/5?set=set4&size=180x180"
   
   },
   {
     "id": 6,
     "name": "Vibhanjali",
     "username": "Leopoldo_Corkery",
-    "email": "Vibhanjali_Dach@jasper.info"
+    "email": "Vibhanjali@jasper.info",
+    "imgUrl": "https://robohash.org/6?set=set4&size=180x180"
   
   },
   {
     "id": 7,
     "name": "Anamika",
     "username": "Elwyn.Skiles",
-    "email": "Anamika.Hoeger@billy.biz"
+    "email": "Anamika.Hoeger@billy.biz",
+    "imgUrl": "https://robohash.org/7?set=set4&size=180x180"
  
   },
   {
     "id": 8,
     "name": "Saumya",
     "username": "Maxime_Nienow",
-    "email": "Saumya@rosamond.me"
+    "email": "Saumya@rosamond.me",
+    "imgUrl": "https://robohash.org/8?set=set4&size=180x180"
    
   },
   {
     "id": 9,
     "name": "Ansh",
     "username": "Delphine",
-    "email": "Ansh_McDermott@dana.io"
+    "email": "Ansh_McDermott@dana.io",
+    "imgUrl": "https://robohash.org/9?set=set4&size=180x180"
    
   },
   {
     "id": 10,
     "name": "Janvi",
     "username": "Moriah.Stanton",
-    "email": "Janvi.Padberg@karina.biz"
-  
+    "email": "Janvi.Padberg@karina.biz",
+    "imgUrl": "https://robohash.org/10?set=set4&size=180x180"
   }
 ]

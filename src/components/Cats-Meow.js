@@ -31,8 +31,10 @@ export default function Cats() {
 
     return (
         <div>
-            <h1 className='app-title'>Cats Meow</h1>
-            <SearchBox onChangeHandle={onSearchChange} placeholder='search box' className='search-box' />
+            <div className='navbar'>
+            <h1 className='app-title'>Cats <span className="app-title-mini">Meow</span></h1>
+            <SearchBox onChangeHandle={onSearchChange} placeholder='Search for cats' className='search-box' />
+            </div>
            
             <CardList cats={filteredCats} />
         </div>

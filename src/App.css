@@ -12,12 +12,60 @@ body {
     rgb(82, 7, 66) 0%,
     rgb(189, 2, 206) 100%
   );
+
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 .app-title {
-  margin-top: 45px;
-  margin-bottom: 45px;
-  font-size: 80px;
-  text-shadow: 2px 2px 2px black;
-  color:#da95d4;
+  margin: 0px 10px 0px 160px;
+  font-size: 40px;
+  text-shadow: 2px 2px 2px #000000, 2px 2px 2px #fce807;
+  color:#ffffff;
+  
   font-family:'Bigelow Rules'
+}
+.app-title-mini{
+  color:#da95d4;
+}
+.navbar{
+  display: flex;
+  width:100%;
+  height:100%;
+  background-color: #23062e;
+  padding: 5px;
+}
+.search-box {
+  -webkit-appearance: none;
+  padding: 0 16px;
+  border-radius: 2px;
+  border: 0;
+  outline: 0 none;
+  font-size: 14px;
+  height: 36px;
+  width: 450px;
+  margin-top: 5px;
+
+}
+@media only screen and (max-width: 850px) {
+  .navbar{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .app-title {
+    margin: 0px;
+    
+  }
+  .search-box {
+    width: 350px;    
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .search-box {    
+    width: 250px;    
+  }
 }
